@@ -1,7 +1,7 @@
 # wp-post-date-retriever
 Gets post dates from WordPress REST API and saves to CSV.
 
-This script was created to GET **post publication** and **last modified dates** for WordPress websites with the [REST API](https://developer.wordpress.org/rest-api/) enabled. This is particularly useful for websites where the post dates are not published in the URL or HTML. Even if posts dates are accessible through other means, using the API with this script will be more efficient and more respectful than cawling and scraping.
+This script was created to GET **post publication** and **last modified dates** for WordPress websites with the [REST API](https://developer.wordpress.org/rest-api/) enabled. This is particularly useful for websites where the post dates are not published in the URL or HTML. Even if posts dates are accessible through other means, using the API with this script will be more efficient and more respectful than crawling and scraping.
 
 ## Use cases
 Post dates are useful for a variety of content strategy and SEO application, especially when combined with analytics:
