@@ -7,7 +7,7 @@ This script was created to GET **post publication** and **last modified dates** 
 Post dates are useful for a variety of content strategy and SEO application, especially when combined with analytics:
 - Content audits
 - SEO blog updates/refreshes
-- Determining content "self life"
+- Determining content "shelf life"
 
 ## Other uses
 With some knowledge of the API, this script can be modified to get a variety of data. 
