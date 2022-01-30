@@ -17,7 +17,7 @@ with st.form("inputs"):
         "(Optional) Update user agent", 
         "Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0"
         )
-    submitted = st.form_submit_button(label="Get posts :fire:")
+    submitted = st.form_submit_button(label="Get posts")
 
 if submitted:
     if domain.endswith("/"):
